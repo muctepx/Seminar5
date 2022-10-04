@@ -1,0 +1,15 @@
+D:\Семинар 5_дз\Задача36\bin\Debug\net6.0\Задача36.exe
+D:\Семинар 5_дз\Задача36\bin\Debug\net6.0\Задача36.deps.json
+D:\Семинар 5_дз\Задача36\bin\Debug\net6.0\Задача36.runtimeconfig.json
+D:\Семинар 5_дз\Задача36\bin\Debug\net6.0\Задача36.dll
+D:\Семинар 5_дз\Задача36\bin\Debug\net6.0\Задача36.pdb
+D:\Семинар 5_дз\Задача36\obj\Debug\net6.0\Задача36.csproj.AssemblyReference.cache
+D:\Семинар 5_дз\Задача36\obj\Debug\net6.0\Задача36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинар 5_дз\Задача36\obj\Debug\net6.0\Задача36.AssemblyInfoInputs.cache
+D:\Семинар 5_дз\Задача36\obj\Debug\net6.0\Задача36.AssemblyInfo.cs
+D:\Семинар 5_дз\Задача36\obj\Debug\net6.0\Задача36.csproj.CoreCompileInputs.cache
+D:\Семинар 5_дз\Задача36\obj\Debug\net6.0\Задача36.dll
+D:\Семинар 5_дз\Задача36\obj\Debug\net6.0\refint\Задача36.dll
+D:\Семинар 5_дз\Задача36\obj\Debug\net6.0\Задача36.pdb
+D:\Семинар 5_дз\Задача36\obj\Debug\net6.0\Задача36.genruntimeconfig.cache
+D:\Семинар 5_дз\Задача36\obj\Debug\net6.0\ref\Задача36.dll

@@ -6,9 +6,10 @@
 int[] InitArray(int size)
 {
     int[] array = new int[size];
+    Random rnd = new Random();
     for (int i = 0; i < size; i++)
     {
-        array[i] = new Random().Next(-100, 101);
+        array[i] = rnd.Next(-100, 101);
     }
     return array;
 }
@@ -32,7 +33,7 @@ Console.Clear();
 Console.WriteLine("Введите размерость массива");
 int size = int.Parse(Console.ReadLine() ?? "");
 int[] array = InitArray(size);
-var result = string.Join(", ", array);
+string result = string.Join(", ", array);
 Console.WriteLine($"Сгенерированный массив: [{result}]");
 int evenNum = GetEvenElements(array);
 Console.WriteLine($"Кол-во четных числе в массиве: {evenNum}");

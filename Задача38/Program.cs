@@ -6,9 +6,10 @@
 double[] InitArray(int size)
 {
     double[] array = new double[size];
+    Random rnd = new Random();
     for (int i = 0; i < size; i++)
     {
-        array[i] = new Random().Next(0, 101);
+        array[i] = rnd.Next(0, 101);
     }
     return array;
 }
